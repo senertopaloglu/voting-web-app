@@ -22,4 +22,4 @@ In order to use Upstash Redis hosting, please create an Upstash account, then pr
 4. open another terminal window and `cd` into `/client`:
     1. `npm install` to install all dependencies for the voting client.
     2. `npm run dev` to compile and start the voting client.
-    3. Please navigate to `http://localhost:3000` in the browser (localhost connection can be configured in `\server\index.ts`)
+    3. Please navigate to `http://localhost:3000` in the browser (alternative localhost connections can be configured in `\server\index.ts`)
