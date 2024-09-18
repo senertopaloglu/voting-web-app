@@ -12,6 +12,8 @@ Please ensure you have NodeJS, npm and TypeScript installed.
 
 In order to use Upstash Redis hosting, please create an Upstash account, then proceed to create a new (free) database instance [here](https://console.upstash.com/redis) - billing information is not required.
 
+Values for the envrionment variables (in `/client/.env.example` and `/server/.env.example`) can be retrieved from the `Details` tab of the webpage for the relevant database instance in the [Upstash console](https://console.upstash.com/redis). 
+
 #### Instructions
 
 1. `git clone` this repository
